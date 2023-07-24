@@ -17,6 +17,7 @@ import Login from './Components/Share/Login.jsx';
 import Authprovider from './Components/Authntication/Authprovider.jsx';
 import PrivetRoute from './Components/Authntication/PrivetRoute.jsx';
 import Home from './Components/Home.jsx';
+import Collage from './Components/Collage/Collage.jsx';
 
 const queryClient = new QueryClient()
 
@@ -32,6 +33,10 @@ const router = createBrowserRouter([
       {
         path: "/collageDetails/:id",
         element: <PrivetRoute><CollageDetails></CollageDetails></PrivetRoute>,
+      },
+      {
+        path: "/collagePage",
+        element: <PrivetRoute><Collage></Collage></PrivetRoute>,
       },
     ]
   },
