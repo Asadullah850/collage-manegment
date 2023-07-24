@@ -39,7 +39,9 @@ function App() {
               <Link to={'/collagePage'}>
                 <li><a>Colleges</a></li>
               </Link>
-              <li><a>Admission</a></li>
+              <Link to={`/admissionPage`}>
+                <li><a>Admission</a></li>
+              </Link>
               <li><a>My College</a></li>
             </ul>
           </div>
@@ -53,7 +55,10 @@ function App() {
             <Link to={'/collagePage'}>
               <li><a>Colleges</a></li>
             </Link>
-            <li><a>Admission</a></li>
+            <Link to={'/admissionPage'}>
+              <li><a>Admission</a></li>
+            </Link>
+
             <li><a>My College</a></li>
           </ul>
         </div>
