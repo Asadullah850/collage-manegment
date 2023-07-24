@@ -1,0 +1,50 @@
+{
+  "hash": "6a422139",
+  "browserHash": "7d0f74d8",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "15bbdc86",
+      "needsInterop": true
+    },
+    "react-awesome-reveal": {
+      "src": "../../node_modules/react-awesome-reveal/dist/index.js",
+      "file": "react-awesome-reveal.js",
+      "fileHash": "f5c9476a",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ee38731f",
+      "needsInterop": true
+    },
+    "react-fast-marquee": {
+      "src": "../../node_modules/react-fast-marquee/dist/index.js",
+      "file": "react-fast-marquee.js",
+      "fileHash": "6b926fd0",
+      "needsInterop": true
+    },
+    "react-responsive-carousel": {
+      "src": "../../node_modules/react-responsive-carousel/lib/js/index.js",
+      "file": "react-responsive-carousel.js",
+      "fileHash": "1050d422",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "0a66a053",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-SR223FWZ": {
+      "file": "chunk-SR223FWZ.js"
+    },
+    "chunk-L7APZED3": {
+      "file": "chunk-L7APZED3.js"
+    }
+  }
+}

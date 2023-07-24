@@ -1,0 +1,116 @@
+[
+    {
+      "college_name": "ABC University",
+      "college_images": "https://i.ibb.co/cFZrPw8/wander-fleur-S1z-Lm-RBg-R6-Q-unsplash.jpg",
+      "student_research_paper_link": "https://arxiv.org/list/cs.CL/recent",
+      "admission_dates": {
+        "start_date": "2023-09-01",
+        "end_date": "2023-12-31"
+      },
+      "graduate_Img": "https://images.unsplash.com/photo-1658235081452-c2ded30b8d9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxncmFkdWF0ZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "event_one_image": "https://i.ibb.co/RgvW8p1/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
+      "event_one_details": "Event 1 details go here",
+      "event_two_image": "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_two_details": "Event 2 details go here",
+      "sports": [
+        "Football",
+        "Basketball",
+        "Volleyball"
+      ]
+    },
+    {
+      "college_name": "XYZ College",
+      "college_images": "https://i.ibb.co/hsNxpT8/richard-cabusao-Zo-QQy-AIi1jg-unsplash.jpg",
+      "student_research_paper_link": "https://arxiv.org/list/q-bio.CB/recent",
+      "admission_dates": {
+        "start_date": "2023-10-15",
+        "end_date": "2024-01-31"
+      },
+      "graduate_Img": "https://images.unsplash.com/photo-1652285374663-d06ce650028a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGdyYWR1YXRlJTIwaW1nfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_one_image": "https://unsplash.com/photos/nOvIa_x_tfo",
+      "event_one_details": "Event 3 details go here",
+      "event_two_image": "https://images.unsplash.com/photo-1663246544984-2730f63628b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzN8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_two_details": "Event 4 details go here",
+      "sports": [
+        "Cricket",
+        "Tennis",
+        "Badminton"
+      ]
+    },
+    {
+      "college_name": "PQR Institute",
+      "college_images": "https://i.ibb.co/ZG73zTy/wander-fleur-1lm-GTHd-Qdj-M-unsplash.jpg",
+      "student_research_paper_link": "https://arxiv.org/archive/eess",
+      "admission_dates": {
+        "start_date": "2023-08-20",
+        "end_date": "2023-12-15"
+    },
+    "graduate_Img": "https://images.unsplash.com/photo-1629196753813-8b4827ddc7c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGdyYWR1YXRlJTIwaW1nfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_one_image": "https://images.unsplash.com/photo-1663246544325-e6b1c46323de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_one_details": "Event 5 details go here",
+      "event_two_image": "https://images.unsplash.com/photo-1663246544917-9fa8f65b8359?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_two_details": "Event 6 details go here",
+      "sports": [
+        "Swimming",
+        "Athletics",
+        "Chess"
+      ]
+    },
+    {
+      "college_name": "LMN College",
+      "college_images": "https://i.ibb.co/2htXc2X/erika-fletcher-MZxqc6n9q-Cw-unsplash.jpg",
+      "student_research_paper_link": "https://arxiv.org/archive/astro-ph",
+      "admission_dates": {
+        "start_date": "2023-09-10",
+        "end_date": "2024-01-15"
+      },
+      "graduate_Img": "https://images.unsplash.com/photo-1608485439523-25b28d982428?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
+      "event_one_image": "https://unsplash.com/photos/nOvIa_x_tfo",
+      "event_one_details": "Event 3 details go here",
+      "event_two_image": "https://images.unsplash.com/photo-1663246544984-2730f63628b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzN8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_two_details": "Event 8 details go here",
+      "sports": [
+        "Soccer",
+        "Hockey",
+        "Table Tennis"
+      ]
+    },
+    {
+      "college_name": "EFG University",
+      "college_images": "https://i.ibb.co/hghKd9q/kyo-azuma-x-TJKVU1-FJA-unsplash.jpg",
+      "student_research_paper_link": "https://arxiv.org/archive/gr-qc",
+      "admission_dates": {
+        "start_date": "2023-10-01",
+        "end_date": "2023-12-30"
+      },
+      "graduate_Img": "https://i.ibb.co/ZV7dqDH/vasily-koloda-8-Cq-Dv-Puo-k-I-unsplash.jpg",
+      "event_one_image": "https://i.ibb.co/RgvW8p1/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
+      "event_one_details": "Event 1 details go here",
+      "event_two_image": "https://images.unsplash.com/photo-1560523159-6b681a1e1852?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_two_details": "Event 10 details go here",
+      "sports": [
+        "Rugby",
+        "Golf",
+        "Baseball"
+      ]
+    },
+    {
+      "college_name": "EFG University",
+      "college_images": "https://i.ibb.co/hghKd9q/kyo-azuma-x-TJKVU1-FJA-unsplash.jpg",
+      "student_research_paper_link": "https://arxiv.org/archive/gr-qc",
+      "admission_dates": {
+        "start_date": "2023-10-01",
+        "end_date": "2023-12-30"
+      },
+      "graduate_Img": "https://i.ibb.co/ZV7dqDH/vasily-koloda-8-Cq-Dv-Puo-k-I-unsplash.jpg",
+      "event_one_image": "https://images.unsplash.com/photo-1663246544325-e6b1c46323de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_one_details": "Event 5 details go here",
+      "event_two_image": "https://images.unsplash.com/photo-1663246544917-9fa8f65b8359?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fHNjaG9vbCUyMGV2ZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60",
+      "event_two_details": "Event 10 details go here",
+      "sports": [
+        "Rugby",
+        "Golf",
+        "Baseball"
+      ]
+    }
+  ]
